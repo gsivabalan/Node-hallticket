@@ -1,7 +1,7 @@
 # Node-hallticket
 https://nodeja-hallticket.onrender.com
 
-create a room: http://localhost:9000/rooms
+create a room:
 POST : http://localhost:9000/rooms
  {"name": "Room 1", "seats": 10, "amenities": ["Projector", "Whiteboard"], "price": 50}
  
