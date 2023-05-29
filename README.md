@@ -13,8 +13,8 @@ POST : http://localhost:9000/rooms
   // http://localhost:9000/rooms/bookings
 
   // List all customers with booked data:
-  // curl http://localhost:9000/customers/bookings
+  // http://localhost:9000/customers/bookings
 
   // List booking history of a customer id:
-  // http://localhost:9000/customers/<customerId>/bookings
+  // http://localhost:3000/customers/customerId/bookings
 
